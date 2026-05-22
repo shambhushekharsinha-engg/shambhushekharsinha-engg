@@ -52,9 +52,10 @@ I am a fourth-semester Computer Science & Engineering student specializing in **
 
 ---
 
+---
+
 ## 📊 My GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=shambhushekharsinha-engg&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=shambhushekharsinha-engg&layout=compact&theme=radical" alt="Top Languages" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambhushekharsinha-engg&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambhushekharsinha-engg&layout=compact&theme=radical)
